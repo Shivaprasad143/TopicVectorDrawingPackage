@@ -19,7 +19,6 @@ namespace VectorBasedDrawing
 
             Show display = new Show();
             display.Circle(xCoordinate, yCoordinate, diameter);
-
         }
     }
 }

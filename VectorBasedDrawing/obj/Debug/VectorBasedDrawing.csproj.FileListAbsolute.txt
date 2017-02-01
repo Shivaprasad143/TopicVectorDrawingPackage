@@ -7,3 +7,6 @@ C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\VectorBasedDrawing\VectorBasedD
 C:\Users\Shiva.Marimallaiah\Documents\VectorBasedDrawingPackage\VectorBasedDrawing\bin\Debug\VectorBasedDrawing.exe.config
 C:\Users\Shiva.Marimallaiah\Documents\VectorBasedDrawingPackage\VectorBasedDrawing\obj\Debug\VectorBasedDrawing.exe
 C:\Users\Shiva.Marimallaiah\Documents\VectorBasedDrawingPackage\VectorBasedDrawing\obj\Debug\VectorBasedDrawing.pdb
+C:\Users\Shiva.Marimallaiah\Documents\TopicVectorDrawingPackage\VectorBasedDrawing\bin\Debug\VectorBasedDrawing.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\TopicVectorDrawingPackage\VectorBasedDrawing\obj\Debug\VectorBasedDrawing.exe
+C:\Users\Shiva.Marimallaiah\Documents\TopicVectorDrawingPackage\VectorBasedDrawing\obj\Debug\VectorBasedDrawing.pdb

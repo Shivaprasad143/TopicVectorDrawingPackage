@@ -16,10 +16,9 @@ namespace VectorBasedDrawing
             int yCoordinate = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Enter the Length of the Square:");
             int Length = Convert.ToInt16(Console.ReadLine());
-           
+
             Show display = new Show();
             display.Square(xCoordinate, yCoordinate, Length);
-
         }
     }
 }

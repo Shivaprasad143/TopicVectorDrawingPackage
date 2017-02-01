@@ -18,7 +18,6 @@ namespace VectorBasedDrawing
             string text = "";
             Show display = new Show();
             display.Textbox(xCoordinate, yCoordinate, text);
-
         }
     }
 }

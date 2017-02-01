@@ -20,7 +20,6 @@ namespace VectorBasedDrawing
             int height = Convert.ToInt16(Console.ReadLine());
             Show display = new Show();
             display.Ellipse(xCoordinate, yCoordinate, length, height);
-
         }
     }
 }

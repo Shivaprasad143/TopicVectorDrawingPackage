@@ -11,7 +11,7 @@ namespace VectorBasedDrawing
         static void Main(string[] args)
         {
             Console.Write("Do you want to add a widget?(Y/N) :- ");
-            char select = Convert.ToChar(Console.ReadLine());      
+            char select = Convert.ToChar(Console.ReadLine());
             do
             {
                 Console.Clear();
@@ -39,13 +39,11 @@ namespace VectorBasedDrawing
                     {
                         Circle cirobj = new VectorBasedDrawing.Circle();
                         cirobj.Main();
-
                     }
                     else if (Selection == '4')
                     {
                         TextBox textobj = new TextBox();
                         textobj.Main();
-
                     }
                     else if (Selection == '5')
                     {
@@ -63,7 +61,6 @@ namespace VectorBasedDrawing
                     select = Convert.ToChar(Console.ReadLine());
                     continue;
                 }
-
                 else if (select == 'N' || select == 'n')
                 {
                     Console.WriteLine("Alright!");
@@ -73,7 +70,6 @@ namespace VectorBasedDrawing
                 else
                 {
                     Console.Clear();
-
                     Console.WriteLine("Wrong entry! Please enter again!");
                     Console.Write("Do you want to add another widget?(Y/N) :- ");
                     select = Convert.ToChar(Console.ReadLine());
@@ -85,9 +81,7 @@ namespace VectorBasedDrawing
             if (select == 'n' || select == 'N')
             {
                 Console.WriteLine("Alright;");
-                
             }
-
             Console.ReadLine();
         }
     }
